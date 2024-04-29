@@ -70,7 +70,7 @@ The key functions of the Web Complaint Portal include:
 
 ## Home Page
 
-![Main-Page](![1](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/2cdfd834-4898-4332-b404-2fb991f6a6db))
+![Main-Page](![1]https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/2cdfd834-4898-4332-b404-2fb991f6a6db)
 
 ## Customer Login
 
