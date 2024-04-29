@@ -1,5 +1,3 @@
-# Web-Complaint-Portal
-
 # Web Complaint Portal
 
 ## Table of Contents
@@ -67,17 +65,5 @@ The key functions of the Web Complaint Portal include:
 - Assign Complaint
 - Complaint History
 - Send Notifications
-
-## 3. Installation
-[Instructions for installing the Web Complaint Portal]
-
-## 4. Usage
-[Guidance on how to use the Web Complaint Portal]
-
-## 5. Contributing
-[Guidelines for contributing to the development of the Web Complaint Portal]
-
-## 6. License
-[License information for the Web Complaint Portal]
 
 ---
