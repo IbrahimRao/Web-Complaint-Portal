@@ -67,3 +67,15 @@ The key functions of the Web Complaint Portal include:
 - Send Notifications
 
 ---
+
+## Home Page
+
+![Main-Page](![1](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/2cdfd834-4898-4332-b404-2fb991f6a6db))
+
+## Customer Login
+
+![Login](![2](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/a6025093-4998-4eab-aa59-3c1a8ddbd173))
+
+## Customer Dashboard
+
+![Menu](![3](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/abd105bd-7419-4953-933c-8bdb304e8023))
