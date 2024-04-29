@@ -70,12 +70,61 @@ The key functions of the Web Complaint Portal include:
 
 ## Home Page
 
-![Main-Page]![1](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/2cdfd834-4898-4332-b404-2fb991f6a6db)
+![1](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/2cdfd834-4898-4332-b404-2fb991f6a6db)
+
+---
 
 ## Customer Login
 
-![Login](![2](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/a6025093-4998-4eab-aa59-3c1a8ddbd173))
+![2](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/a6025093-4998-4eab-aa59-3c1a8ddbd173)
+
+---
 
 ## Customer Dashboard
 
-![Menu](![3](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/abd105bd-7419-4953-933c-8bdb304e8023))
+![3](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/abd105bd-7419-4953-933c-8bdb304e8023)
+
+---
+
+
+## Create Complaint
+
+![4](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/faa4102a-0438-43b0-9f95-06aa707e7610)
+
+---
+
+## Check Status
+
+![5](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/b5043e6b-c87f-4927-92b9-073844c02790)
+
+---
+
+## Admin Login
+
+![6](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/ee07962a-d23b-42d5-b5b3-913f1d3fb7df)
+
+---
+
+## Admin Dashboard
+
+![7](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/b3eae79c-423a-4231-9b1f-4b19563a9f4d)
+
+---
+
+## Assign Complaint
+
+![8](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/4ce921a0-c7f0-4701-9fe0-9bdfbf757cf8)
+
+---
+
+## View Complaint
+
+![9](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/ff2b9d12-d39d-4588-b30c-3b11380b0b92)
+
+---
+
+## Close Complaint
+
+![11](https://github.com/IbrahimRao/Brick-Breaker-Game-In-Assembly-Language/assets/66884608/7ca89ccd-70a2-45ba-8699-8a77e0c0d0ea)
+
+---
